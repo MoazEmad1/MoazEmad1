@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br>
   </a>
   <a href ="https://github.com/MoazEmad1">
-    <img src="https://komarev.com/ghpvc/?username=antonashraf&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=moazemad1&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 

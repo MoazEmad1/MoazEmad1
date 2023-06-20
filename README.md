@@ -17,8 +17,8 @@
 
 - 🏠 Living in Cairo, Egypt
 - 🏅 Interested in Back-End Engineering
-- 🌱 I’m currently learning Spring
-- 📫 How to reach me: **moazemad330@gmail.com**
+- 🌱 Currently learning Spring
+- 📫 Reach me: **moazemad330@gmail.com**
 
 </p>
 </p>
